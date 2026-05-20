@@ -1,4 +1,4 @@
-LR_VERSION = "0.2.5-beta1"
-LR_BUILD_DATE = "2026-05-16"
-LR_BUILD_NUMBER = "qa39"
-LR_PATCH_NOTES = "New systems."
+LR_VERSION = "0.2.6-beta1"
+LR_BUILD_DATE = "2026-05-20"
+LR_BUILD_NUMBER = "qa40"
+LR_PATCH_NOTES = "General Maintenance."
